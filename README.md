@@ -1,7 +1,7 @@
 ### Knowledgable In:
-![image](3453532.png) ![image](533532532.png) ![image](3532323.png) ![image](432432432.png) <br>
+![image](3453532.png)(https://github.com/Koomball) ![image](533532532.png)(https://github.com/Koomball) ![image](3532323.png)(https://github.com/Koomball) ![image](432432432.png)(https://github.com/Koomball) <br>
 ### Currently Learning:
-![image](3532154321.png) ![image](23532532.png) <br>
+![image](3532154321.png)(https://github.com/Koomball) ![image](23532532.png)(https://github.com/Koomball) <br>
 *Discord Bot and Game Developer* <br>
 ![image](fhVTAyV.gif)
 ### Founder & Lead Developer of Hell Miner (Discord Bot)
