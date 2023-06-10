@@ -1,9 +1,9 @@
 ### Knowledgable In:
-![image](3453532.png)(https://github.com/Koomball) ![image](533532532.png)(https://github.com/Koomball) ![image](3532323.png)(https://github.com/Koomball) ![image](432432432.png)(https://github.com/Koomball) <br>
+[![image](3453532.png)](https://github.com/Koomball) [![image](533532532.png)](https://github.com/Koomball) [![image](3532323.png)](https://github.com/Koomball) [![image](432432432.png)](https://github.com/Koomball) <br>
 ### Currently Learning:
-![image](3532154321.png)(https://github.com/Koomball) ![image](23532532.png)(https://github.com/Koomball) <br>
+[![image](3532154321.png)](https://github.com/Koomball) [![image](23532532.png)](https://github.com/Koomball) <br>
 *Discord Bot and Game Developer* <br>
-![image](fhVTAyV.gif)
+[![image](fhVTAyV.gif)](https://github.com/Koomball)
 ### Founder & Lead Developer of Hell Miner (Discord Bot)
 *Hell Miner is a unique miner simulator Discord Bot where you startoff at the lowest points of hell shovelling ash and dirt from the barren wastelands, you will rise in the ranks of wealth and eventually found your own mines and design your own journey. With custom pickaxes, a unique loot system, fighting (coming soon), trading (coming soon), and more!*
 
