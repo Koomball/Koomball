@@ -20,5 +20,5 @@ ETA: Exclusive Alpha expected Q2 2024
 https://github.com/Koomball/BDFD-Variables-With-Json/tree/main
 
 ### Wikis
-[BDFD Variables With JSON](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
+[BDFD Variables With JSON](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) <br>
 [BDFD $textSplit Warn History](https://github.com/Koomball/BDFD-textSplit-Warn-History-guide)
