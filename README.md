@@ -21,3 +21,4 @@ https://github.com/Koomball/BDFD-Variables-With-Json/tree/main
 
 ### Wikis
 [BDFD Variables With JSON](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
+[BDFD $textSplit Warn History](https://github.com/Koomball/BDFD-textSplit-Warn-History-guide)
