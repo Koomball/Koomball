@@ -5,7 +5,7 @@
 <br>
 ## ↠ CEO of Nylon Developments ↞
 > * Nylon is a in development programming language. <br>
-> [.nyl / discord.nyl Documentation]() <br>
+> [.nyl / discord.nyl Documentation](https://koomball.github.io/Nylon.io/) <br>
 
 ## ↠ Founder & Lead Developer of HellForge (Discord Bot) ↞
 > * *HellForge is a RPG Styled bot where you rise up the ranks of wealth to acclaim your title as king or queen of Hell. But be warned, you die once and it’s back to the very start.* <br>
