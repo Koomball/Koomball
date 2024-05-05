@@ -34,7 +34,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Moderate`  | BDFD          | `Coming Soon` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
+| `Moderate`  | BDFD          | `Published: 06/05/24 6:36AM` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
 <br>
 
 ### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
@@ -70,5 +70,6 @@ ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 | ======                      | ==============================     | ========================================                                                                                                                    |                                         
 | :-------------------------: | :----------------------------------------------------------------------------------------------- | ----------- |
 | ***Publish/Update & Date*** | ***WIKI***                                                                                       | ***Notes*** |
+| `06/05/24` <br> Published   | [***Smart /sell & /buy commands***](https://github.com/Koomball/BDFD-Smart-sell-buy-command) |          |
 | `13/06/23` <br> Updated     | [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) | - Expanded `$json` & `$jsonSetString`        |
   
