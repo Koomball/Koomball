@@ -34,7 +34,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ======      | =====     | ========================================                                                                                                                                                             |
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Moderate`  | BDFD          | `Coming Soon` <br> [***Advanced /sell & /buy.***]https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
 <br>
 
 ### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
@@ -42,7 +42,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Hard`      | BDFD<br>JSON | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+| `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
 <br>
 
 ### ${\color{lightred}MARKDOWN \ \ GUIDES}$
