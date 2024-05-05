@@ -1,14 +1,16 @@
 $${\color{green}KNOWN \ \ LANGS}$$
 <p align="center">
-  <img src="https://github.com/Koomball/3453532.png"/>
+  <img src="3453532.png"/>
+  <img src="533532532.png"/>
+  <img src="3532323.png"/>
+  <img src="432432432.png"/>
 </p>
 
-[![image](3453532.png)](https://github.com/Koomball) [![image](533532532.png)](https://github.com/Koomball) [![image](3532323.png)](https://github.com/Koomball) [![image](432432432.png)](https://github.com/Koomball) <br>
-
-$${\color{red}CURRENTLY \ \ LEARNING}$$
-
-[![image](3532154321.png)](https://github.com/Koomball) [![image](23532532.png)](https://github.com/Koomball) <br>
-<br>
+$${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
+<p align="center">
+  <img src="3532154321.png"/>
+  <img src="23532532.png"/>
+</p>
 
 ---
 ## $${\color{red}MY \ \ PROJECTS}$$
