@@ -27,10 +27,10 @@
 - `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
 
 $${\color{blue}BDFD \ WIKIS}$$
-  | Lang | Wiki | Last Updated | Changes
-  | ---- | -------- | ---- | ---- |
-  | BDFD | [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) | 13/06/23 | N/A
-  | BDFD    | [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    | 15/06/23 | N/A
+| Lang           | Wiki                                                                                                                                                             |
+| -            - | -                                                                                                                                                              - |
+| BDFD           | `Published: N/A` <br> `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
+| BDFD <br> JSON | `Published: N/A` <br> `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
   
 - ***Basic Wikis***  
 > **Eval Command & Repeat Eval Button (Soon)** <br>
