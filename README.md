@@ -3,7 +3,7 @@
 ### Currently Learning:
 [![image](3532154321.png)](https://github.com/Koomball) [![image](23532532.png)](https://github.com/Koomball) <br>
 <br>
-## ↠ Foundet of Nylon Developments ↞
+## ↠ Founder of Nylon Developments ↞
 > * Nylon is a in development programming language that takez inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. <br>
 
 ## ↠ Founder & Lead Developer of HellForge (Discord Bot) ↞
@@ -13,7 +13,10 @@
 
 ## ↠ Wikis ↞
 > - [BDFD Variables With JSON](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) <br>
+> > - Updated: 13/06/2023 12:07AM, GMT+10
+<br>
 > - [BDFD JSON Warn History](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide) <br>
+> > - Updated: 
 > - BDFD Ticket System (Soon)
 > - BDFD Advanced /sell & /buy (Soon)
 > - BDFD & Spreadsheets (Soon)
