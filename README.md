@@ -11,17 +11,46 @@
 >   **Invite:** Coming Soon <br>
 >   **ETA:** Q22025 <br>  
 
-## ↠ Wikis ↞
-> - [BDFD Variables With JSON](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) <br>
-> > - Updated: 13/06/2023 12:07AM, GMT+10 <br>
-> - [BDFD JSON Warn History](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide) <br>
-> > - Updated: <br>
+# ↠ Wikis ↞
+*(Time is in GMT+10)* <br>
+<details> 
+## BDFD
+- ***BDFD Eval Command & Repeat Eval Button (Soon)*** <br>
+> - Progress: Started. <br>
 
-> - BDFD Ticket System (Soon)
-> - BDFD Advanced /sell & /buy (Soon)
-> - BDFD & Spreadsheets (Soon)
-> - BDFD Debugger (Soon)
-> - BDFD & Top.gg (Soon)
-> - BDFD Dynamic Inventory (Soon)
-> - BDFD Moderation Menu (Soon)
-> - BDFD Dynamic Help Command (Soon)
+- ***BDFD Ticket System (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+> ***BDFD Moderation Menu (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+> ***BDFD & Top.gg (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+### BDFD/JSON
+> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) <br>
+> - Last Updated: 13/06/2023 12:07AM <br>
+<br>
+
+> [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide) <br>
+> - Last Updated: 15/06/2023 N/A <br>
+<br>
+
+### BDFD/TEXTSPLIT
+> ***BDFD Dynamic Inventory (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+> ***BDFD Dynamic Help Command (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+### BDFD/ADVANCED
+> ***BDFD Advanced /sell & /buy (Soon)*** <br>
+> - Progress: Started. <br>
+
+> ***BDFD & Spreadsheets (Soon)*** <br>
+> - Progress: Started. <br>
+
+> ***BDFD Debugger (Soon)*** <br>
+> - Progress: Unstarted. <br>
+
+</details>
