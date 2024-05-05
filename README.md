@@ -24,16 +24,10 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 
 ---
 # $${\color{blue}MY \ \ WIKIS}$$
+<p align="center">[BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) </p>
+[BDFD & JSON Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis) <br>
+[Markdown Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides) <br>
 
-${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
-- `15/06/23` [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)
-- `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
-
-${\color{lightgreen}INDEX}$
-- [BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) <br>
-- [BDFD & JSON Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis) <br>
-- [Markdown Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides) <br>
-<br>
 
 ### ${\color{blue}BDFD \ \ WIKIS}$
 | ======      | =====     | ========================================                                                                                                                                                             |
@@ -65,4 +59,6 @@ ${\color{lightgreen}INDEX}$
 | `Easy`      | md<br>html<br>css  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
 | `Easy`      | md<br>html<br>css | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
 
-  
+${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
+- `15/06/23` [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)
+- `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
