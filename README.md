@@ -25,28 +25,35 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 ---
 # $${\color{blue}MY \ \ WIKIS}$$
 
-### $${\color{blue}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$$
-
+${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 - `15/06/23` [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)
-
 - `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
 
-${\color{blue}BDFD \ \ WIKIS}$
-| Skill      | Lang         | Wiki                                                                                                                                                             |
-| ---------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Easy`     | BDFD         | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
-| `Easy`     | BDFD         | `Coming Soon` <br> ***Ticket System.***               |
-| `Easy`     | BDFD         | `Coming Soon` <br> ***Moderation Menu.***               |
-| `Moderate` | BDFD         | `Coming Soon` <br> ***Top.gg Guide.***               |
-| `Moderate` | BDFD         | `Coming Soon` <br> ***Dynamic Inventory.***               |
-| `Moderate` | BDFD         | `Coming Soon` <br> ***Dynamic Help Command.***               |
-| `Moderate` | BDFD         | `Coming Soon` <br> ***Advanced /sell & /buy command.***               |
-| `Hard`     | BDFD         | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
-| `Hard`     | BDFD         | `Coming Soon` <br> ***Code Debugger***               |
+${\color{lightgreen}INDEX}$
+- [BDFD Wikis.](https://github.com/Koomball/Koomball/edit/main/README.md#colorbluebdfd---wikis) <br>
+- BDFD & JSON Wikis. <br>
+- Markdown Wikis. <br>
+<br>
 
-${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
-| Skill      | Lang              | Wiki                                                                                                                                                             |
-| ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Hard`     | BDFD<br>JSON      | `Published: N/A` <br> `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Hard`     | BDFD<br>JSON      | `Published: N/A` <br> `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+### ${\color{blue}BDFD \ \ WIKIS}$
+| ======      | =====     | ========================================                                                                                                                                                             |
+| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Skill*** | ***Lang***    | ***Wiki*** |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Inventory.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Help Command.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Advanced /sell & /buy command.***               |
+| `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
+| `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
+<br>
+
+### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
+| ======      | =====     | ========================================                                                                                                                                                             |
+| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Skill*** | ***Lang***    | ***Wiki*** |
+| `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
+| `Hard`      | BDFD<br>JSON | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
   
