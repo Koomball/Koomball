@@ -8,14 +8,15 @@ ${\color{red}CURRENTLY \ \ LEARNING}$
 <br>
 
 ---
+$${\color{red}MY \ \ PROJECTS}$$
 
-↠ ***Founder of Nylon Developments.***
-> * Nylon is a in development programming language that takez inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. <br>
----
-↠ ***Founder & Lead Dev of HellForge***
-> *HellForge is the dawn of a new era in community driven discord bots!* <br>
->   **Invite:** Coming Soon <br>
->   **ETA:** Q22025 <br>  
+↠ ***Founder of Nylon Developments.*** <br>
+*Nylon is a in development programming language that takez inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development.* <br>
+
+↠ ***Founder & Lead Dev of HellForge*** <br> 
+*HellForge is the dawn of a new era in community driven discord bots!* <br>
+**ETA:** Q2 2025 <br>  
+
 ---
 <br>
 <br>
