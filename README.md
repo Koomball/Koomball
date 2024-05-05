@@ -32,7 +32,7 @@ ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 ${\color{lightgreen}INDEX}$
 - [BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) <br>
 - [BDFD & JSON Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis) <br>
-- [Markdown Wikis.](https://github.com/Koomball/Koomball/edit/main/README.md#colorlightredmarkdown---guides) <br>
+- [Markdown Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides) <br>
 <br>
 
 ### ${\color{blue}BDFD \ \ WIKIS}$
