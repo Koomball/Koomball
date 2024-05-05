@@ -1,8 +1,16 @@
-### Knowledgable In:
+$${\color{green}KNOWN \ \ LANGS}$$
+<p align="center">
+  
 [![image](3453532.png)](https://github.com/Koomball) [![image](533532532.png)](https://github.com/Koomball) [![image](3532323.png)](https://github.com/Koomball) [![image](432432432.png)](https://github.com/Koomball) <br>
-### Currently Learning:
+
+</p>
+
+$${\color{red}CURRENTLY \ \ LEARNING}$$
+
+<p align="center">
 [![image](3532154321.png)](https://github.com/Koomball) [![image](23532532.png)](https://github.com/Koomball) <br>
 <br>
+</p>
 
 ---
 ↠ ***Founder of Nylon Developments.*** ↞
@@ -26,49 +34,22 @@
 
 - `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
 
-$${\color{blue}BDFD \ WIKIS}$$
+$${\color{blue}BDFD \ \ WIKIS}$$
+| Grade / Lang             | Wiki                                                                                                                                                             |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Easy` <br> BDFD         | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
+| `Easy` <br> BDFD         | `Coming Soon` <br> ***Ticket System.***               |
+| `Easy` <br> BDFD         | `Coming Soon` <br> ***Moderation Menu.***               |
+| `Moderate` <br> BDFD     | `Coming Soon` <br> ***Top.gg Guide.***               |
+| `Moderate` <br> BDFD     | `Coming Soon` <br> ***Dynamic Inventory.***               |
+| `Moderate` <br> BDFD     | `Coming Soon` <br> ***Dynamic Help Command.***               |
+| `Moderate` <br> BDFD     | `Coming Soon` <br> ***Advanced /sell & /buy command.***               |
+| `Hard` <br> BDFD         | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
+| `Hard` <br> BDFD         | `Coming Soon` <br> ***Code Debugger***               |
+
+$${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$$
 | Lang           | Wiki                                                                                                                                                             |
-| -            - | -                                                                                                                                                              - |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | BDFD           | `Published: N/A` <br> `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
 | BDFD <br> JSON | `Published: N/A` <br> `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
   
-- ***Basic Wikis***  
-> **Eval Command & Repeat Eval Button (Soon)** <br>
-> - Progress: Started. <br>
-
-> **BDFD Ticket System (Soon)** <br>
-> - Progress: Unstarted. <br>
-
-> **BDFD Moderation Menu (Soon)** <br>
-> - Progress: Unstarted. <br>
-
-> **BDFD & Top.gg (Soon)** <br>
-> - Progress: Unstarted. <br> 
----
-- ***TEXTSPLIT***
-> **BDFD Dynamic Inventory (Soon)** <br>
-> - Progress: Unstarted. <br>
-
-> **BDFD Dynamic Help Command** <br>
-> - Progress: Unstarted. <br>
-<br>
----
-- ***ADVANCED***
-> **BDFD Advanced /sell & /buy** <br>
-> - Progress: Started. <br>
-
-> **BDFD & Spreadsheets** <br>
-> - Progress: Started. <br>
-
-> **BDFD Debugger (Soon)** <br>
-> - Progress: Unstarted. <br>
-<br>
-
-$${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$$
-> [**BDFD Variables With JSON**](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) <br>
-> - Last Updated: 13/06/2023 12:07AM <br>
-<br>
-
-> [**BDFD JSON Warn History**](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)** <br>
-> - Last Updated: 15/06/2023 N/A <br>
-
