@@ -31,29 +31,29 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
   <br>
   
 ### ${\color{blue}BDFD \ \ WIKIS}$
-| ======      | =====     | ========================================                                                                                                                                                             |
+| ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Moderate`  | BDFD          | `Coming Soon` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
 <br>
 
 ### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
-| ======      | =====     | ========================================                                                                                                                                                             |
+| ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+| `Hard`      | BDFD<br>JSON  | `Published: N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
+| `Hard`      | BDFD<br>JSON  | `Published: N/A` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
 <br>
 
 ### ${\color{lightred}MARKDOWN \ \ GUIDES}$
-| ======      | =====     | ========================================                                                                                                                                                             |
+| ======      | =====     | ========================================                                                                                                                    |                                        
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***         | ***Wiki***             |
 |             | md<br>html<br>css  | None (yet)             |
 <br> 
 
 ### ${\color{blue}COMING \ \ SOON}$
-| ======      | =====     | ========================================                                                                                                                                                             |
+| ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Easy`      | BDFD          | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
@@ -67,5 +67,8 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 <br>
 
 ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
-- `15/06/23` [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)
-- `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
+| ======                      | ==============================     | ========================================                                                                                                                    |                                         
+| :-------------------------: | :----------------------------------------------------------------------------------------------- | ----------- |
+| ***Publish/Update & Date*** | ***WIKI***                                                                                       | ***Notes*** |
+| `13/06/23` <br> Updated     | [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) | - Expanded `$json` & `$jsonSetString`        |
+  
