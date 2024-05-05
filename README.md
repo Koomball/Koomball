@@ -31,8 +31,8 @@ ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 
 ${\color{lightgreen}INDEX}$
 - [BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) <br>
-- BDFD & JSON Wikis. <br>
-- Markdown Wikis. <br>
+- [BDFD & JSON Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis) <br>
+- [Markdown Wikis.](https://github.com/Koomball/Koomball/edit/main/README.md#colorlightredmarkdown---guides) <br>
 <br>
 
 ### ${\color{blue}BDFD \ \ WIKIS}$
@@ -56,4 +56,13 @@ ${\color{lightgreen}INDEX}$
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Hard`      | BDFD<br>JSON  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
 | `Hard`      | BDFD<br>JSON | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+<br>
+
+### ${\color{lightred}MARKDOWN \ \ GUIDES}$
+| ======      | =====     | ========================================                                                                                                                                                             |
+| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Skill*** | ***Lang***    | ***Wiki*** |
+| `Easy`      | md<br>html<br>css  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
+| `Easy`      | md<br>html<br>css | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+
   
