@@ -30,7 +30,7 @@ ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 - `13/06/23` [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)
 
 ${\color{lightgreen}INDEX}$
-- [BDFD Wikis.](https://github.com/Koomball/Koomball/edit/main/README.md#colorbluebdfd---wikis) <br>
+- [BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) <br>
 - BDFD & JSON Wikis. <br>
 - Markdown Wikis. <br>
 <br>
