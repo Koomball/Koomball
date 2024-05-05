@@ -1,4 +1,7 @@
 $${\color{green}KNOWN \ \ LANGS}$$
+<p align="center">
+  <img src="https://github.com/Koomball/3453532.png"/>
+</p>
 
 [![image](3453532.png)](https://github.com/Koomball) [![image](533532532.png)](https://github.com/Koomball) [![image](3532323.png)](https://github.com/Koomball) [![image](432432432.png)](https://github.com/Koomball) <br>
 
@@ -8,7 +11,7 @@ $${\color{red}CURRENTLY \ \ LEARNING}$$
 <br>
 
 ---
-$${\color{red}MY \ \ PROJECTS}$$
+## $${\color{red}MY \ \ PROJECTS}$$
 
 ↠ ***Founder of Nylon Developments.*** <br>
 *Nylon is a in development programming language that takez inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development.* <br>
