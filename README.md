@@ -34,6 +34,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
+| `Easy`      | BDFD          | `Published: 06/05/24 6:43AM` <br> [***Eval Command & Repeat Eval Button.***](https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md)               |
 | `Moderate`  | BDFD          | `Published: 06/05/24 6:36AM` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
 <br>
 
@@ -56,7 +57,6 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
 | `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
 | `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
 | `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
@@ -65,11 +65,3 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
 | `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
 <br>
-
-${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
-| ======                      | ==============================     | ========================================                                                                                                                    |                                         
-| :-------------------------: | :----------------------------------------------------------------------------------------------- | ----------- |
-| ***Publish/Update & Date*** | ***WIKI***                                                                                       | ***Notes*** |
-| `06/05/24` <br> Published   | [***Smart /sell & /buy commands***](https://github.com/Koomball/BDFD-Smart-sell-buy-command) |          |
-| `13/06/23` <br> Updated     | [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main) | - Expanded `$json` & `$jsonSetString`        |
-  
