@@ -24,10 +24,10 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 
 ---
 # $${\color{blue}MY \ \ WIKIS}$$
-<div class="container"/> <a class="link" href="https://www.example.com/"> <p align="center"> BDFD </p> </a> 
+<div class="container"/> <a class="link" href="https://github.com/Koomball#colorbluebdfd---wikis"> <p align="center"> BDFD </p> </a> 
 <div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis"> <p align="center"> BDFD & JSON</p> </a> 
 <div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides"> <p align="center"> Markdown, CSS & HTML </p> </a> 
-<div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides"> <p align="center"> Markdown, CSS & HTML </p> </a> 
+<div class="container"/> <a class="link" href="https://github.com/Koomball#colorbluecoming---soon"> <p align="center"> Coming Soon! </p> </a> 
   <br>
   
 ### ${\color{blue}BDFD \ \ WIKIS}$
