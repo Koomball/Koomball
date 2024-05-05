@@ -24,24 +24,17 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 
 ---
 # $${\color{blue}MY \ \ WIKIS}$$
-<p align="center">[BDFD Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorbluebdfd---wikis) </p>
-[BDFD & JSON Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis) <br>
-[Markdown Wikis.](https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides) <br>
-
-
+<div class="container"/> <a class="link" href="https://www.example.com/"> <p align="center"> BDFD </p> </a> 
+<div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis"> <p align="center"> BDFD & JSON</p> </a> 
+<div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides"> <p align="center"> Markdown, CSS & HTML </p> </a> 
+<div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightredmarkdown---guides"> <p align="center"> Markdown, CSS & HTML </p> </a> 
+  <br>
+  
 ### ${\color{blue}BDFD \ \ WIKIS}$
 | ======      | =====     | ========================================                                                                                                                                                             |
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Inventory.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Help Command.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Advanced /sell & /buy command.***               |
-| `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
-| `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> [***Advanced /sell & /buy.***]https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
 <br>
 
 ### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
@@ -55,9 +48,23 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 ### ${\color{lightred}MARKDOWN \ \ GUIDES}$
 | ======      | =====     | ========================================                                                                                                                                                             |
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ***Skill*** | ***Lang***         | ***Wiki***             |
+|             | md<br>html<br>css  | None (yet)             |
+<br> 
+
+### ${\color{blue}COMING \ \ SOON}$
+| ======      | =====     | ========================================                                                                                                                                                             |
+| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Easy`      | md<br>html<br>css  | `Published: N/A` `Updated: 13/06/23 N/A` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Easy`      | md<br>html<br>css | `Published: N/A` `Updated: 13/06/23 12:07AM` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Eval Command & Repeat Eval Button.***               |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
+| `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Inventory.***               |
+| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Help Command.***               |
+| `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
+| `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
+<br>
 
 ${\color{lightgreen}RECENTLY \ \ UPDATED \ \ AND \ \ PUBLISHED}$
 - `15/06/23` [***BDFD JSON Warn History***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)
