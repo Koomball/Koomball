@@ -50,7 +50,6 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ======      | =====     | ========================================                                                                                                                    |                                        
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***         | ***Wiki***             |
-|             | md<br>html<br>css  | None (yet)             |
 <br> 
 
 ### ${\color{blue}COMING \ \ SOON}$
@@ -59,6 +58,8 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
 | `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
+| `Easy`      | md            | `Coming Soon` <br> ***Basic Markdown***            |
+| `Easy`      | css           | `Coming Soon` <br> ***Centering images in CSS***            |
 | `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
 | `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Inventory.***               |
 | `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Help Command.***               |
