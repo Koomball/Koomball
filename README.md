@@ -43,7 +43,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Hard`      | BDFD<br>JSON  | `Published: 06/06/23` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Hard`      | BDFD<br>JSON  | `Published: NA/07/23` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
+| `Hard`      | BDFD<br>JSON  | `Published: 11/06/23` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
 <br>
 
 ### ${\color{lightred}MARKDOWN \ \ GUIDES}$
