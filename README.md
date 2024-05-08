@@ -76,4 +76,30 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
 <br>
 
-[cols="^,^,^"] <br>|=== <br>|Layer1 |Layer2 |Layer3 <br> <br>.4+.^|L1 Name .2+.^|L2 Name A |L3 Name A \n|L3 Name B <br>.2+.^|L2 Name B |L3 Name C <br>|L3 Name D <br> <br>|===
+<table>
+    <thead>
+        <tr>
+            <th colspan=2>=============================================</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=2><p align="center">${\color{blue}BDFD \ \ WIKIS}$</p></td>
+        </tr>
+        <tr>
+            <td> <p align="center"><code>Easy</code></p><br><img src="3453532.png"/></td>
+            <td> <code>Published: 06/05/24</code> <br> <a class="link" href="https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md"> Eval Command & Repeat Eval Button. </td>
+        </tr>
+        <tr> 
+            <td><code>Moderate</code></td>
+            <td><code>Published: 06/05/24</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Advanced-sell-buy-command"> Eval Command & Repeat Eval Button. </td>
+        </tr>
+        <tr>
+            <td colspan=2><p align="center">${\color{lightblue}BDFD \ \ + \ \ JSON \ \ WIKIS}$</p></td>
+        </tr>
+        <tr> 
+            <td><code>Moderate</code></td>
+            <td><code>Published: 06/05/24</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Variables-With-Json/tree/main"> BDFD Variables with JSON. </td>
+        </tr>
+    </tbody>
+</table>
