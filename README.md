@@ -15,12 +15,15 @@ $${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
 ---
 
 ### $${\color{red}MY \ \ PROJECTS}$$
-*<p align="center"> ***Founder of Nylon Developments*** <br>  [***Nylon Documentation***](https://koomball.github.io/Nylon.io/)  <br> Nylon is a in development programming language that takes inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. </p>*
+*<p align="center"> ***Nylon Design Engine*** <br>  [***Nylon Documentation***](https://koomball.github.io/Nylon.io/)  <br> Nylon is a in development programming language that takes inspiration from bdscript2 and yaml. Nylon is not for discord bots and is being developed for game development but will have the tools to make any package you desire including the future discord.nyl planned much later after the languages release. Nylon can be intergrated with nearly any language to form as a universal translator that can be highly customised for whatever purpose you need it for.</p>*
+
+*<p align="center"> ***NILD (Nylon Integration Language for Data)*** <br> A yaml inspired data storage language made for easy database creation and intergration with nearly any other database language or service (like mongodb, google cloud).</p>*
+
 #
 *<p align="center">***Founder & Lead Dev of HellForge*** <br> **ETA:** Q2 2025 <br>
 HellForge is the dawn of a new era in community driven discord bots! </p>* 
 #
-*<p align="center">***imageSplit API*** <br> **ETA:** N/A <br>
+*<p align="center">***imageSplit API*** <br> [***imageSplit Documentation***](https://github.com/Koomball/imageSplit-documentation) <br> **ETA:** N/A <br>
 A paid api for discord bots that allows you to convert sets of numbers into tiles and then merges them into one image, atlast no more annoying lines on your emoji based images. </p>* 
 
 ---
