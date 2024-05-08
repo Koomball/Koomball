@@ -19,18 +19,10 @@ $${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
 *<p align="center"> ***Founder of Nylon Developments*** <br>  [***Nylon Documentation***](https://koomball.github.io/Nylon.io/)  <br> Nylon is a in development programming language that takes inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. </p>* <br>
 <br>
 
-| | |
-|-|-|
-|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
-
----
-
-
 *<p align="center">***Founder & Lead Dev of HellForge*** <br> **ETA:** Q2 2025 <br>
 HellForge is the dawn of a new era in community driven discord bots! </p>* 
 
-<hr style="border:15px solid gray">
-<hr style="border:2px solid blue">
+---
 
 # $${\color{blue}MY \ \ WIKIS}$$
 <div class="container"/> <a class="link" href="https://github.com/Koomball#colorbluebdfd---wikis"> <p align="center"> BDFD </p> </a> 
@@ -39,39 +31,15 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 <div class="container"/> <a class="link" href="https://github.com/Koomball#colorbluecoming---soon"> <p align="center"> Coming Soon! </p> </a> 
   <br>
   
-### ${\color{blue}BDFD \ \ WIKIS}$
-|       |      |                                                                                                                     |                                         
-| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Easy`      | BDFD          | `Published: 06/05/24 6:43AM` <br> [***Eval Command & Repeat Eval Button.***](https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md)               |
-| `Moderate`  | BDFD          | `Published: 06/05/24 6:36AM` <br> [***Advanced /sell & /buy.***](https://github.com/Koomball/BDFD-Advanced-sell-buy-command)               |
-<br>
 
-### ${\color{lightblue}BDFD \ \ JSON \ \ WIKIS}$
-| ======      | =====     | ========================================                                                                                                                    |                                         
-| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Hard`      | BDFD<br>JSON  | `Published: 06/06/23` <br> [***BDFD Variables With JSON***](https://github.com/Koomball/BDFD-Variables-With-Json/tree/main)              |
-| `Hard`      | BDFD<br>JSON  | `Published: 11/06/23` <br> [***BDFD /warn & /warn-history With JSON***](https://github.com/Koomball/BDFD-JSON-Warn-History-Guide)    |
-<br>
 
-### ${\color{lightred}MARKDOWN \ \ GUIDES}$
-| ======      | =====     | ========================================                                                                                                                    |                                        
-| :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ***Skill*** | ***Lang***         | ***Wiki***             |
-<br> 
 
 ### ${\color{blue}COMING \ \ SOON}$
 | ======      | =====     | ========================================                                                                                                                    |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Ticket System.***               |
-| `Easy`      | BDFD          | `Coming Soon` <br> ***Moderation Menu.***               |
 | `Easy`      | md            | `Coming Soon` <br> ***Basic Markdown***            |
 | `Easy`      | css           | `Coming Soon` <br> ***Centering images in CSS***            |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Top.gg Guide.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Inventory.***               |
-| `Moderate`  | BDFD          | `Coming Soon` <br> ***Dynamic Help Command.***               |
 | `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
 | `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
 <br>
@@ -80,7 +48,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 <table>
     <thead>
         <tr>
-            <th colspan=2>================================================</th>
+            <th colspan=2>===============================================================</th>
         </tr>
     </thead>
     <tbody>
@@ -109,7 +77,23 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
         </tr>
         <tr> 
             <td><p align="center">${\color{blue}BDFD}$</p></td>
-            <td><code>Coming Soon</code><br>***Ticket System***</td>
+            <td><code>Coming Soon</code><br><b><i>Ticket System</i></b></td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Coming Soon</code><br><b><i>Moderation Menu</i></b></td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Coming Soon</code><br><b><i>Top.gg Guide</i></b></td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Coming Soon</code><br><b><i>Dynamic /help command</i></b></td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Coming Soon</code><br><b><i>Dynamic /inventory command</i></b></td>
         </tr>
     </tbody>
 </table>
