@@ -85,7 +85,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
     </thead>
     <tbody>
         <tr>
-            <td colspan=2><p align="center">${\color{blue}BDFD \ \ WIKIS}$</p></td>
+            <td colspan=2><p align="center">${\color{red}BDFD \ \ WIKIS}$</p></td>
         </tr>
         <tr>
             <td><p align="center">${\color{blue}BDFD}$</p></td>
@@ -103,11 +103,13 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
             <td><p align="center">${\color{lightblue}BDFD+JSON}$<br></td>
             <td><code>Published: 11/05/23</code><br> <a class="link" href="https://github.com/Koomball/BDFD-JSON-Warn-History-Guide"> BDFD JSON /warn & /warn-history <user> </td>
         </tr>
-        <tr>
-            <td colspan=2><p align="center">${\color{blue}MARKDOWN \ \ WIKIS}$</p></td>
-        </tr>
+        <tr><td colspan=2></td></tr>
         <tr>
             <td colspan=2><p align="center">${\color{green}COMING \ \ SOON}$</p></td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Coming Soon</code><br>***Ticket System***</td>
         </tr>
     </tbody>
 </table>
