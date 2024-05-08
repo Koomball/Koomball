@@ -1,5 +1,3 @@
-*<p align="center">(Times are in GMT+10) </p>* <br>
-
 $${\color{green}KNOWN \ \ LANGS}$$
 <p align="center">
   <img src="3453532.png"/>
@@ -32,12 +30,12 @@ A paid api for discord bots that allows you to convert sets of numbers into tile
 <table>
     <thead>
         <tr>
-            <th colspan=3>===============================================================</th>
+            <th colspan=3>===================================================================================</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td colspan=3><p align="center">${\color{red}BDFD \ \ WIKIS}$</p></td>
+            <td colspan=3><p align="center">${\color{green}BDFD \ \ WIKIS}$</p></td>
         </tr>
         <tr>
             <td><p align="center">${\color{blue}BDFD}$</p></td>
@@ -99,7 +97,7 @@ A paid api for discord bots that allows you to convert sets of numbers into tile
             <td><code>Coming Soon</code><br><b><i>Code Debugger</i></b></td>
         </tr>
         <tr> 
-            <td><p align="center">${\color{gray}md}$</p></td>
+            <td><p align="center">${\color{gray}MARKDOWN}$</p></td>
             <td><p align="center"><code>Easy (1/5)</code></p></td>
             <td><code>Coming Soon</code><br><b><i>Basic Markdown</i></b></td>
         </tr>          
