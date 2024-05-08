@@ -4,7 +4,6 @@ $${\color{green}KNOWN \ \ LANGS}$$
 <p align="center">
   <img src="3453532.png"/>
   <img src="533532532.png"/>
-  <img src="3532323.png"/>
   <img src="432432432.png"/>
 </p>
 
@@ -12,17 +11,20 @@ $${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
 <p align="center">
   <img src="3532154321.png"/>
   <img src="23532532.png"/>
+  <img src="3532323.png"/>
 </p>
 
 ---
 ## $${\color{red}MY \ \ PROJECTS}$$
-*<p align="center"> ***Founder of Nylon Developments.*** <br> Nylon is a in development programming language that takes inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. </p>* <br>
+*<p align="center"> ***Founder of Nylon Developments*** <br>  [***Nylon Documentation***](https://koomball.github.io/Nylon.io/)  <br> Nylon is a in development programming language that takes inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. </p>* <br>
 <br>
 
 *<p align="center">***Founder & Lead Dev of HellForge*** <br> **ETA:** Q2 2025 <br>
 HellForge is the dawn of a new era in community driven discord bots! </p>* 
 
----
+<hr style="border:15px solid gray">
+<hr style="border:2px solid blue">
+
 # $${\color{blue}MY \ \ WIKIS}$$
 <div class="container"/> <a class="link" href="https://github.com/Koomball#colorbluebdfd---wikis"> <p align="center"> BDFD </p> </a> 
 <div class="container"/> <a class="link" href="https://github.com/Koomball/Koomball/blob/main/README.md#colorlightbluebdfd---json---wikis"> <p align="center"> BDFD & JSON</p> </a> 
