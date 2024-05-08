@@ -19,6 +19,13 @@ $${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
 *<p align="center"> ***Founder of Nylon Developments*** <br>  [***Nylon Documentation***](https://koomball.github.io/Nylon.io/)  <br> Nylon is a in development programming language that takes inspiration from bdscript2. Nylon is not for discord bots and is being developed for game development. </p>* <br>
 <br>
 
+| | |
+|-|-|
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
+
+---
+
+
 *<p align="center">***Founder & Lead Dev of HellForge*** <br> **ETA:** Q2 2025 <br>
 HellForge is the dawn of a new era in community driven discord bots! </p>* 
 
@@ -33,7 +40,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
   <br>
   
 ### ${\color{blue}BDFD \ \ WIKIS}$
-| ======      | =====     | ========================================                                                                                                                    |                                         
+|       |      |                                                                                                                     |                                         
 | :---------: | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ***Skill*** | ***Lang***    | ***Wiki*** |
 | `Easy`      | BDFD          | `Published: 06/05/24 6:43AM` <br> [***Eval Command & Repeat Eval Button.***](https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md)               |
