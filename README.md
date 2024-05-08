@@ -75,3 +75,5 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | `Hard`      | BDFD          | `Coming Soon` <br> ***BDFD & Spreadsheets.***               |
 | `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
 <br>
+
+[cols="^,^,^"] <br>|=== <br>|Layer1 |Layer2 |Layer3 <br> <br>.4+.^|L1 Name .2+.^|L2 Name A |L3 Name A \n|L3 Name B <br>.2+.^|L2 Name B |L3 Name C <br>|L3 Name D <br> <br>|===
