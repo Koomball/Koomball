@@ -79,7 +79,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 <table>
     <thead>
         <tr>
-            <th colspan=2>=============================================</th>
+            <th colspan=2>================================================</th>
         </tr>
     </thead>
     <tbody>
@@ -87,19 +87,26 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
             <td colspan=2><p align="center">${\color{blue}BDFD \ \ WIKIS}$</p></td>
         </tr>
         <tr>
-            <td> <p align="center"><code>Easy</code></p><br><img src="3453532.png"/></td>
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
             <td> <code>Published: 06/05/24</code> <br> <a class="link" href="https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md"> Eval Command & Repeat Eval Button. </td>
         </tr>
         <tr> 
-            <td><code>Moderate</code></td>
-            <td><code>Published: 06/05/24</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Advanced-sell-buy-command"> Eval Command & Repeat Eval Button. </td>
-        </tr>
-        <tr>
-            <td colspan=2><p align="center">${\color{lightblue}BDFD \ \ + \ \ JSON \ \ WIKIS}$</p></td>
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><code>Published: 06/05/24</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Advanced-sell-buy-command"> Smart /buy & /sell command. </td>
         </tr>
         <tr> 
-            <td><code>Moderate</code></td>
-            <td><code>Published: 06/05/24</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Variables-With-Json/tree/main"> BDFD Variables with JSON. </td>
+            <td><p align="center">${\color{lightblue}BDFD+JSON}$</td>
+            <td><code>Published: 06/06/23</code><br> <a class="link" href="https://github.com/Koomball/BDFD-Variables-With-Json/tree/main"> BDFD Variables with JSON. </td>
+        </tr>
+        <tr> 
+            <td><p align="center">${\color{lightblue}BDFD+JSON}$<br></td>
+            <td><code>Published: 11/05/23</code><br> <a class="link" href="https://github.com/Koomball/BDFD-JSON-Warn-History-Guide"> BDFD JSON /warn & /warn-history <user> </td>
+        </tr>
+        <tr>
+            <td colspan=2><p align="center">${\color{blue}MARKDOWN \ \ WIKIS}$</p></td>
+        </tr>
+        <tr>
+            <td colspan=2><p align="center">${\color{green}COMING \ \ SOON}$</p></td>
         </tr>
     </tbody>
 </table>
