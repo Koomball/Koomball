@@ -76,6 +76,7 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
 | `Hard`      | BDFD          | `Coming Soon` <br> ***Code Debugger***               |
 <br>
 
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -110,3 +111,4 @@ HellForge is the dawn of a new era in community driven discord bots! </p>*
         </tr>
     </tbody>
 </table>
+</div>
