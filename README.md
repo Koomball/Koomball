@@ -72,8 +72,8 @@ A paid api for discord bots that allows you to convert sets of numbers into tile
         </tr>
         <tr> 
             <td><p align="center">${\color{blue}BDFD}$</p></td>
-            <td><p align="center"><code>Easy (1/5)</code></p></td>
-            <td><code>Coming Soon</code><br><b><i>Ticket System</i></b></td>
+            <td><p align="center"><code>Medium (2/5)</code></p></td>
+            <td><code>Coming Soon</code><br><b><i>Better Ticket System</i></b></td>
         </tr>
         <tr> 
             <td><p align="center">${\color{blue}BDFD}$</p></td>
