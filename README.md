@@ -46,6 +46,11 @@ A paid api for discord bots that allows you to convert sets of numbers into tile
             <td><p align="center"><code>Easy (1/5)</code></p></td>
             <td> <code>Published: 06/05/24</code> <br> <a class="link" href="https://github.com/Koomball/BDFD-Eval-Command-And-Repeat-Eval-Button./blob/main/README.md"> Eval Command & Repeat Eval Button. </td>
         </tr>
+        <tr>
+            <td><p align="center">${\color{blue}BDFD}$</p></td>
+            <td><p align="center"><code>Easy (1/5)</code></p></td>
+            <td> <code>Published: 13/05/24</code> <br> <a class="link" href="https://github.com/Koomball/BDFD-Basic-Ticket-System"> Basic Ticket System. </td>
+        </tr>
         <tr> 
             <td><p align="center">${\color{blue}BDFD}$</p></td>
             <td><p align="center"><code>Moderate (2/5)</code></p></td>
