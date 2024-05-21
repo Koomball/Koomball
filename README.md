@@ -1,19 +1,6 @@
 ---
 
-$${\color{green}KNOWN \ \ LANGS}$$
-<p align="center">
-  <img src="3453532.png"/>
-  <img src="533532532.png"/>
-  <img src="432432432.png"/>
-  <img src="3532323.png"/>
-  <img src="35323238538.png"/>
-</p>
-
-$${\color{lightgreen}CURRENTLY \ \ LEARNING}$$
-<p align="center">
-  <img src="3532154321.png"/>
-  <img src="23532532.png"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koomball&langs_count=8&theme=radical)
 
 ---
 
