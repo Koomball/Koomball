@@ -13,8 +13,9 @@
 *<p align="center">***Founder & Lead Dev of HellForge*** <br> **ETA:** Q2 2025 <br>
 HellForge is the dawn of a new era in community driven discord bots! </p>* 
 #
-*<p align="center">***imageSplit API*** <br> [***imageSplit Documentation***](https://github.com/Koomball/imageSplit-documentation) <br> **ETA:** N/A <br>
-A paid api for discord bots that allows you to convert sets of numbers into tiles and then merges them into one image, atlast no more annoying lines on your emoji based images. </p>* 
+***<p align="center"> imageSplit API</p>***
+ <br>
+ [![ImageSplit API](https://github-readme-stats.vercel.app/api/pin/?username=NylonDevStudio&repo=ImageSplit-API&theme=radical)](https://github.com/NylonDevStudio/ImageSplit-api) </p>
 
 ---
 
